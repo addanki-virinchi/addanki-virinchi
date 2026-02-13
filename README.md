@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Vocal-local](https://github.com/radubobirnac/vocallocal)
 
-- 🌱 I’m currently learning **spark,handoop,data bricks**
+- 🌱 I’m currently learning **spark,hadoop,data bricks - technologies related to Data engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/addanki-virinchi](https://github.com/addanki-virinchi)
 
